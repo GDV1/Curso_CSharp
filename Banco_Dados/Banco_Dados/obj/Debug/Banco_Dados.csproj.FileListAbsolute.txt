@@ -1,0 +1,10 @@
+D:\Curso CSharp\Banco_Dados\Banco_Dados\bin\Debug\Banco_Dados.exe.config
+D:\Curso CSharp\Banco_Dados\Banco_Dados\bin\Debug\Banco_Dados.exe
+D:\Curso CSharp\Banco_Dados\Banco_Dados\bin\Debug\Banco_Dados.pdb
+D:\Curso CSharp\Banco_Dados\Banco_Dados\obj\Debug\Banco_Dados.csprojAssemblyReference.cache
+D:\Curso CSharp\Banco_Dados\Banco_Dados\obj\Debug\Banco_Dados.Form1.resources
+D:\Curso CSharp\Banco_Dados\Banco_Dados\obj\Debug\Banco_Dados.Properties.Resources.resources
+D:\Curso CSharp\Banco_Dados\Banco_Dados\obj\Debug\Banco_Dados.csproj.GenerateResource.cache
+D:\Curso CSharp\Banco_Dados\Banco_Dados\obj\Debug\Banco_Dados.csproj.CoreCompileInputs.cache
+D:\Curso CSharp\Banco_Dados\Banco_Dados\obj\Debug\Banco_Dados.exe
+D:\Curso CSharp\Banco_Dados\Banco_Dados\obj\Debug\Banco_Dados.pdb

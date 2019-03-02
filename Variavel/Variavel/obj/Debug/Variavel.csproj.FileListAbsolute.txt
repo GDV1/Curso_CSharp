@@ -1,0 +1,10 @@
+C:\Users\gabriel-dv\Desktop\Curso CSharp\Variavel\Variavel\bin\Debug\Variavel.exe.config
+C:\Users\gabriel-dv\Desktop\Curso CSharp\Variavel\Variavel\bin\Debug\Variavel.exe
+C:\Users\gabriel-dv\Desktop\Curso CSharp\Variavel\Variavel\bin\Debug\Variavel.pdb
+C:\Users\gabriel-dv\Desktop\Curso CSharp\Variavel\Variavel\obj\Debug\Variavel.csprojAssemblyReference.cache
+C:\Users\gabriel-dv\Desktop\Curso CSharp\Variavel\Variavel\obj\Debug\Variavel.Form1.resources
+C:\Users\gabriel-dv\Desktop\Curso CSharp\Variavel\Variavel\obj\Debug\Variavel.Properties.Resources.resources
+C:\Users\gabriel-dv\Desktop\Curso CSharp\Variavel\Variavel\obj\Debug\Variavel.csproj.GenerateResource.cache
+C:\Users\gabriel-dv\Desktop\Curso CSharp\Variavel\Variavel\obj\Debug\Variavel.csproj.CoreCompileInputs.cache
+C:\Users\gabriel-dv\Desktop\Curso CSharp\Variavel\Variavel\obj\Debug\Variavel.exe
+C:\Users\gabriel-dv\Desktop\Curso CSharp\Variavel\Variavel\obj\Debug\Variavel.pdb

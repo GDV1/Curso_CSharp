@@ -1,0 +1,11 @@
+C:\Users\gabriel-dv\Desktop\Curso CSharp\HelloWorld_Console\HelloWorld_Console\bin\Debug\netcoreapp2.1\HelloWorld_Console.deps.json
+C:\Users\gabriel-dv\Desktop\Curso CSharp\HelloWorld_Console\HelloWorld_Console\bin\Debug\netcoreapp2.1\HelloWorld_Console.runtimeconfig.json
+C:\Users\gabriel-dv\Desktop\Curso CSharp\HelloWorld_Console\HelloWorld_Console\bin\Debug\netcoreapp2.1\HelloWorld_Console.runtimeconfig.dev.json
+C:\Users\gabriel-dv\Desktop\Curso CSharp\HelloWorld_Console\HelloWorld_Console\bin\Debug\netcoreapp2.1\HelloWorld_Console.dll
+C:\Users\gabriel-dv\Desktop\Curso CSharp\HelloWorld_Console\HelloWorld_Console\bin\Debug\netcoreapp2.1\HelloWorld_Console.pdb
+C:\Users\gabriel-dv\Desktop\Curso CSharp\HelloWorld_Console\HelloWorld_Console\obj\Debug\netcoreapp2.1\HelloWorld_Console.csprojAssemblyReference.cache
+C:\Users\gabriel-dv\Desktop\Curso CSharp\HelloWorld_Console\HelloWorld_Console\obj\Debug\netcoreapp2.1\HelloWorld_Console.csproj.CoreCompileInputs.cache
+C:\Users\gabriel-dv\Desktop\Curso CSharp\HelloWorld_Console\HelloWorld_Console\obj\Debug\netcoreapp2.1\HelloWorld_Console.AssemblyInfoInputs.cache
+C:\Users\gabriel-dv\Desktop\Curso CSharp\HelloWorld_Console\HelloWorld_Console\obj\Debug\netcoreapp2.1\HelloWorld_Console.AssemblyInfo.cs
+C:\Users\gabriel-dv\Desktop\Curso CSharp\HelloWorld_Console\HelloWorld_Console\obj\Debug\netcoreapp2.1\HelloWorld_Console.dll
+C:\Users\gabriel-dv\Desktop\Curso CSharp\HelloWorld_Console\HelloWorld_Console\obj\Debug\netcoreapp2.1\HelloWorld_Console.pdb

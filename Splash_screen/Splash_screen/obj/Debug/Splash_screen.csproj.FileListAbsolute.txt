@@ -1,0 +1,10 @@
+C:\Users\gabriel-dv\Desktop\Curso CSharp\Splash_screen\Splash_screen\bin\Debug\Splash_screen.exe.config
+C:\Users\gabriel-dv\Desktop\Curso CSharp\Splash_screen\Splash_screen\bin\Debug\Splash_screen.exe
+C:\Users\gabriel-dv\Desktop\Curso CSharp\Splash_screen\Splash_screen\bin\Debug\Splash_screen.pdb
+C:\Users\gabriel-dv\Desktop\Curso CSharp\Splash_screen\Splash_screen\obj\Debug\Splash_screen.csprojAssemblyReference.cache
+C:\Users\gabriel-dv\Desktop\Curso CSharp\Splash_screen\Splash_screen\obj\Debug\Splash_screen.AboutBox1.resources
+C:\Users\gabriel-dv\Desktop\Curso CSharp\Splash_screen\Splash_screen\obj\Debug\Splash_screen.Properties.Resources.resources
+C:\Users\gabriel-dv\Desktop\Curso CSharp\Splash_screen\Splash_screen\obj\Debug\Splash_screen.csproj.GenerateResource.cache
+C:\Users\gabriel-dv\Desktop\Curso CSharp\Splash_screen\Splash_screen\obj\Debug\Splash_screen.csproj.CoreCompileInputs.cache
+C:\Users\gabriel-dv\Desktop\Curso CSharp\Splash_screen\Splash_screen\obj\Debug\Splash_screen.exe
+C:\Users\gabriel-dv\Desktop\Curso CSharp\Splash_screen\Splash_screen\obj\Debug\Splash_screen.pdb

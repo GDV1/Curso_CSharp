@@ -1,0 +1,10 @@
+C:\Users\gabriel-dv\Desktop\Curso CSharp\Sistema_Cantina\Sistema_Cantina\bin\Debug\Sistema_Cantina.exe.config
+C:\Users\gabriel-dv\Desktop\Curso CSharp\Sistema_Cantina\Sistema_Cantina\bin\Debug\Sistema_Cantina.exe
+C:\Users\gabriel-dv\Desktop\Curso CSharp\Sistema_Cantina\Sistema_Cantina\bin\Debug\Sistema_Cantina.pdb
+C:\Users\gabriel-dv\Desktop\Curso CSharp\Sistema_Cantina\Sistema_Cantina\obj\Debug\Sistema_Cantina.Form1.resources
+C:\Users\gabriel-dv\Desktop\Curso CSharp\Sistema_Cantina\Sistema_Cantina\obj\Debug\Sistema_Cantina.Properties.Resources.resources
+C:\Users\gabriel-dv\Desktop\Curso CSharp\Sistema_Cantina\Sistema_Cantina\obj\Debug\Sistema_Cantina.csproj.GenerateResource.cache
+C:\Users\gabriel-dv\Desktop\Curso CSharp\Sistema_Cantina\Sistema_Cantina\obj\Debug\Sistema_Cantina.csproj.CoreCompileInputs.cache
+C:\Users\gabriel-dv\Desktop\Curso CSharp\Sistema_Cantina\Sistema_Cantina\obj\Debug\Sistema_Cantina.exe
+C:\Users\gabriel-dv\Desktop\Curso CSharp\Sistema_Cantina\Sistema_Cantina\obj\Debug\Sistema_Cantina.pdb
+C:\Users\gabriel-dv\Desktop\Curso CSharp\Sistema_Cantina\Sistema_Cantina\obj\Debug\Sistema_Cantina.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\gabriel-dv\Desktop\Curso CSharp\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\gabriel-dv\Desktop\Curso CSharp\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\gabriel-dv\Desktop\Curso CSharp\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\gabriel-dv\Desktop\Curso CSharp\Arrays\Arrays\obj\Debug\Arrays.Form1.resources
+C:\Users\gabriel-dv\Desktop\Curso CSharp\Arrays\Arrays\obj\Debug\Arrays.Properties.Resources.resources
+C:\Users\gabriel-dv\Desktop\Curso CSharp\Arrays\Arrays\obj\Debug\Arrays.csproj.GenerateResource.cache
+C:\Users\gabriel-dv\Desktop\Curso CSharp\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\gabriel-dv\Desktop\Curso CSharp\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\gabriel-dv\Desktop\Curso CSharp\Arrays\Arrays\obj\Debug\Arrays.pdb
